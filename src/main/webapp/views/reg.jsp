@@ -1,5 +1,6 @@
 <html>
 	<body bgcolor="grey">
+		<img src="bg.GIF"
 		<center>
 			<h1 style="color:green">EMPLOYEE MANAGEMENT SYSTEM</h1>
 		<a href="/">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
